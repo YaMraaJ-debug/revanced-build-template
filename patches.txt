@@ -17,7 +17,6 @@ disable-fullscreen-panels
 old-quality-layout
 hide-shorts-button
 hide-watermark
-sponsorblock
 force-vp9-codec
 hdr-auto-brightness
 video-ads
