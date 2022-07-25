@@ -4,7 +4,9 @@ return-youtube-dislike
 hide-autoplay-button
 custom-branding
 enable-wide-searchbar
-autorepeat-by-default
+always-autorepeat
+sponsorblock
+disable-fullscreen-panels
 # INCLUDE PATCHES FROM BELOW. DO NOT REMOVE THIS LINE
 seekbar-tapping
 minimized-playback
@@ -13,7 +15,6 @@ disable-create-button
 hide-cast-button
 premium-heading
 hide-autoplay-button
-disable-fullscreen-panels
 old-quality-layout
 hide-shorts-button
 hide-watermark
