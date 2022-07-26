@@ -108,7 +108,7 @@ echo "************************************"
 if [ -f "com.google.android.apps.youtube.music.apk" ]; then
     echo "Building Root APK"
     java -jar revanced-cli.jar -b revanced-patches.jar --mount \
-        -e microg-support ${patches[@]} \
+        -e music-microg-support ${patches[@]} \
         $EXPERIMENTAL \
         -a com.google.android.apps.youtube.music.apk -o build/revanced-music-root.apk
     echo "Building Non-root APK"
