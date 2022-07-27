@@ -1,5 +1,4 @@
 # EXCLUDE PATCHES FROM BELOW. DO NOT REMOVE THIS LINE
-swipe-controls
 return-youtube-dislike
 custom-branding
 enable-wide-searchbar
@@ -7,7 +6,8 @@ always-autorepeat
 sponsorblock
 disable-fullscreen-panels
 # INCLUDE PATCHES FROM BELOW. DO NOT REMOVE THIS LINE
-default-video-quality
+swipe-controls
+remember-video-quality
 seekbar-tapping
 minimized-playback
 amoled
